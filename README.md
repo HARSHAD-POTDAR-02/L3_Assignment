@@ -1,3 +1,5 @@
+ISSUES FACED DURING RUNNING SCIRA MCP CHAT LOCALLY AND THE SOLUTIONS
+
 ✅ Issue 1: Project Setup and Node/Package Environment
 🛠 Initial Setup
 Project identified as a Next.js app using TypeScript and pnpm
