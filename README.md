@@ -47,6 +47,7 @@ Added Gemini to the model selector config in UI
 Used Groq api key to ue the models in the Scria MCP Chat 
 
 
+
 ✅ Issue 2: Gemini Integration and Multi-Provider Support
 🛠 Initial Setup
 Installed @ai-sdk/google for Gemini
